@@ -1,0 +1,1 @@
+To run either of these two chuck files, simply open them up in miniAudicle and click "Add Shred".
